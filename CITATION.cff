@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, cite the repository version you ran."
+title: "BNC_analysis"
+type: software
+authors:
+  - family-names: "Di"
+    given-names: "Ziye"
+repository-code: "https://github.com/ZiyeDi/BNC_analysis"
+license: "LicenseRef-Proprietary"
+version: "0.1.0"
+date-released: "2026-08-15"
+

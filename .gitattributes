@@ -1,0 +1,9 @@
+*.m text eol=lf
+*.md text eol=lf
+*.cff text eol=lf
+*.csv text eol=lf
+*.xlsx binary
+*.fig binary
+*.mat binary
+*.png binary
+
